@@ -1,0 +1,2 @@
+https://pydtmc.readthedocs.io/_modules/pydtmc/markov_chain.html#MarkovChain.simulate
+https://pypi.org/project/PyDTMC/
